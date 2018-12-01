@@ -1,6 +1,6 @@
 {
   "name": "jean-osm-message",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Provides message classes for jean osm",
   "main": "dist/jean-osm-message.js",
   "scripts": {
