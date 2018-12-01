@@ -1,0 +1,19 @@
+{
+  "name": "jean-osm-message",
+  "version": "1.0.0",
+  "description": "Provides message classes for jean osm",
+  "main": "dist/jean-osm-message.js",
+  "scripts": {
+    "test": "open spec/spec-runner.html in browser"
+  },
+  "keywords": [],
+  "author": "Jeremias Andris",
+  "license": "MIT",
+  "dependencies": {
+    "jean-amd": "1.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/je-an/jean-osm-message.git"
+  }
+}
